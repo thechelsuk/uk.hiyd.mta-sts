@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: route1.mx.cloudflare.net
-mx: route2.mx.cloudflare.net
-mx: route3.mx.cloudflare.net
+mx01.mail.icloud.com
+mx02.mail.icloud.com
 max_age: 1209600
